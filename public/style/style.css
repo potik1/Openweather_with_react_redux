@@ -1,0 +1,29 @@
+nav {
+    background-color: steelblue;
+}
+
+p.navbar-brand {
+    font-size: 20px;
+    margin: 3px 0;
+}
+
+a.btn {
+    font-size: 20px;
+}
+
+.btn-default {
+    color: white;
+}
+
+.navbar-left {
+    float: left;
+}
+
+.navbar-right {
+    float: right;
+}
+
+h1 {
+    text-align: center;
+}
+
